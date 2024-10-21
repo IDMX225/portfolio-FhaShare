@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/assets');
   eleventyConfig.addPassthroughCopy('./src/fonts');
   eleventyConfig.addPassthroughCopy("./src/images");
-  eleventyConfig.addPassthroughCopy('./src/style.css');
+  eleventyConfig.addPassthroughCopy('./public/css/style.css');
   eleventyConfig.addPassthroughCopy('./src/admin');
 
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: 'src/',
+      includes: '_includes',
       output: 'public/',
     },
   };

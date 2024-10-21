@@ -9,8 +9,8 @@
     "build:sass": "sass  --no-source-map src/sass:public/css",
     "build:eleventy": "eleventy",
     "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r --no-map",
-    "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:sass build:eleventy"
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rvccidmx/wdii-portfolio-starter#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "autoprefixer": "^10.4.17",
     "cross-env": "^7.0.3",
     "cssnano": "^6.0.5",
