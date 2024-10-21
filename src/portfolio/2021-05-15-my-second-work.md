@@ -1,10 +1,10 @@
 ---
-title: My Second Article
-author: Kevin Powell
+title: My Second Work
+author: IDMX Student
 date: 2021-05-15
 tags: ["post", "featured"]
-image: /assets/blog/article-2.jpg
-imageAlt: This is a test
+image: /assets/portfolio/article-2.jpg
+imageAlt: This is a test My Second Article
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
