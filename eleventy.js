@@ -2,15 +2,16 @@ const { DateTime } = require('luxon');
 
 module.exports = function (eleventyConfig) {
   // watch these for changes
-  eleventyConfig.addWatchTarget("./src/assets/");
-  eleventyConfig.addWatchTarget("./src/fonts/");
-  eleventyConfig.addWatchTarget("./src/images/");
-  eleventyConfig.addWatchTarget("./src/sass/");
+  eleventyConfig.addWatchTarget('./src/assets/');
+  eleventyConfig.addWatchTarget('./src/fonts/');
+  eleventyConfig.addWatchTarget('./src/images/');
+  eleventyConfig.addWatchTarget('./src/sass/');
+  eleventyConfig.addWatchTarget('./src/sass/');
   // copy these folders to public folder
   eleventyConfig.addPassthroughCopy('./src/assets');
   eleventyConfig.addPassthroughCopy('./src/fonts');
   eleventyConfig.addPassthroughCopy("./src/images");
-  eleventyConfig.addPassthroughCopy('./public/css/style.css');
+  eleventyConfig.addPassthroughCopy('./src/sass/style.scss');
   eleventyConfig.addPassthroughCopy('./src/admin');
 
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
