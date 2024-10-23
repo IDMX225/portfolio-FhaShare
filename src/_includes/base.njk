@@ -9,9 +9,9 @@
   <meta name="generator" content="{{ eleventy.generator }}">
   <title>{{ title }}</title>
   <link rel="stylesheet" href="/css/style.css">
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link rel="shortcut icon" href="/assets/vector.svg" type="image/svg+xml">
 </head>
-
 <body>
   {% include 'header.njk' %}
   <main>
@@ -19,6 +19,17 @@
   </main>
   {% include 'footer.njk' %}
 
+  <script>
+      // Check if Netlify Identity widget is available
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 </body>
-
 </html>
