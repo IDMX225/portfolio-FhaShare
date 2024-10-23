@@ -1,19 +1,61 @@
 ---
 title: Phra Aphai Mani — Sudsakorn's Pome
+description: This poem is from one of Sunthorn Phu (The William Shakespeare of
+  Thailand)’s most renowned works, the epic of Phra Aphai Mani. The particular
+  chapter from which this poem is drawn follows the story of Sudsakorn, who had
+  been fooled and his magical items were stolen. His mentor, a hermit, magically
+  appears and rescues him, then teaches him not to easily trust others.
 author: Fhaungfha Suvannakajorn
 date: 2024-10-13
-tags: ['post']
-image: /assets/portfolio/article-1.jpg
-imageAlt: "My First Article"
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+tags:
+  - post
+image: /assets/portfolio/work1-picture-shutterstock-dreamloveyou.jpg
+imageAlt: Sunthorn Phu's Picture by dreamloveyou from Shutterstock
 ---
+## Phra Aphai Mani — Sudsakorn
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+### By Sunthorn Phu
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+### Translated by Ken Mathis Lohatepanont
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+This poem is from one of Sunthorn Phu (The William Shakespeare of Thailand)’s most renowned works, the epic of Phra Aphai Mani. The particular chapter from which this poem is drawn follows the story of Sudsakorn, who had been fooled and his magical items were stolen. His mentor, a hermit, magically appears and rescues him, then teaches him not to easily trust others, comparing the human mind to entangled vines. The hermit concludes by saying that self-reliance and knowing how to survive is the best of all traits. This particular selection from Phra Aphai Mani is a beloved classic and one of the most well known poems in Thailand.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+* ### **Thai-pronunciation**
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+Laew sorn wa ya wai jai ma**nood**\
+Mun san **sood** luek lam nuer kam**nod**
+
+Tueng tao wan pan kiew tee liew **lod**\
+Gor mai **kod** muen nueng nai num jai **khon**
+
+Manood nee tee ruk yu song sa**tharn**\
+Bida **marn**da rak muk pen **pon**
+
+Tee pueng nueng peung dai tae kai **ton**\
+Kerd pen **khon** kid hen jueng jera**ja**
+
+Maen krai ruk ruk mung chung chung **torb**\
+Hai rorb **korb** kid arn na larn **na**
+
+Ru sing dai mai su ru vi**cha**\
+Ru rak**sa** tua rord pen yord dee
+
+* ### P﻿ome Meaning
+
+Do not trust others, he said:\
+be afraid of the human mind.
+
+Even the most twisted of vines\
+seems benign compared to the soul.
+
+Two people do have pure intent:\
+Your parents, who love with hearts whole.
+
+But destiny’s yours to control\
+It’s your role to think on your own.
+
+Beware of even the friendly\
+Cautiously think through all you’ve known.
+
+Knowledge is not enough, alone:\
+The capstone is learning to survive.
