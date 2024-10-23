@@ -1,7 +1,7 @@
 ---
-title: My First Work
-author: IDMX Student
-date: 2021-05-01
+title: Phra Aphai Mani — Sudsakorn's Pome
+author: Fhaungfha Suvannakajorn
+date: 2024-10-13
 tags: ['post']
 image: /assets/portfolio/article-1.jpg
 imageAlt: "My First Article"
