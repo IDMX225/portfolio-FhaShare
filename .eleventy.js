@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/fonts/");
   eleventyConfig.addWatchTarget("./src/images/");
   eleventyConfig.addWatchTarget("./src/sass/");
+  eleventyConfig.addWatchTarget("./src/admin");
   // copy these folders to public folder
   eleventyConfig.addPassthroughCopy('./src/assets');
   eleventyConfig.addPassthroughCopy('./src/fonts');
