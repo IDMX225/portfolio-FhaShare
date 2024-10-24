@@ -22,7 +22,7 @@ Using Firefox's DevTools, I made adjustments to different font axes, fine-tuning
 
  You can view my project here: 
 
-``[`typography-fhashare`](https://typography-fhashare.netlify.app/)``
+#### *[typography-fhashare](https://typography-fhashare.netlify.app/)*
 
 Finally, I deployed the project to Netlify, ensuring that the Fraunces font loaded locally, and confirmed its presence using Firefox's Fonts panel. 
 
