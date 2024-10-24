@@ -9,6 +9,7 @@ author: Fhaungfha Suvannakajorn
 date: 2024-10-13
 tags:
   - post
+  - featured
 image: /assets/portfolio/work-1.png
 imageAlt: Sunthorn Phu's pome site
 ---
