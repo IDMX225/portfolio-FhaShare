@@ -1,9 +1,11 @@
 ---
 title: Applying Color in UI Design on CodePen
-description: Recently, I worked on a project following George Francis's tutorial
-  on applying color in UI design using HSL and CSS custom properties. My task
-  was to design a product card, and I chose a pumpkin emoji inspired by the fall
-  season for a fictional business called "Spooky Jack's Pumpkin. "
+description: In this blog post, I will share my experience designing a product
+  card inspired by the fall season. I used a pumpkin emoji for a fictional
+  business named "Spooky Jack's Pumpkin" and followed George Francis's tutorial
+  to explore the power of HSL and CSS custom properties. I will explain my
+  grayscale-to-color process and share insights into how I used color theory to
+  enhance the design and capture the festive spirit of fall.
 author: Fhaungfha Suvannakajorn
 date: 2024-10-21T16:00:00.000Z
 tags:
