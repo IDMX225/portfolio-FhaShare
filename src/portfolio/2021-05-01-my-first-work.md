@@ -1,10 +1,12 @@
 ---
 title: Pome Sites
-description: This poem is from one of Sunthorn Phu (The William Shakespeare of
-  Thailand)’s most renowned works, the epic of Phra Aphai Mani. The particular
-  chapter from which this poem is drawn follows the story of Sudsakorn, who had
-  been fooled and his magical items were stolen. His mentor, a hermit, magically
-  appears and rescues him, then teaches him not to easily trust others.
+description: In this blog post, I will share my design journey through two poem
+  websites I developed for my IDMX 268 Web Page Development II class. One site
+  features a traditional Thai poem, and I focused on creating a subtle,
+  harmonious color palette to match the poem's mood. The other side celebrates
+  the fall season with a pumpkin-themed poem, connecting seasonal elements with
+  vibrant design choices. I will discuss how I balanced creativity and
+  functionality to create immersive user experiences in both projects.
 author: Fhaungfha Suvannakajorn
 date: 2024-10-13
 tags:
