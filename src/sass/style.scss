@@ -84,6 +84,7 @@ section,
 
 .page-header {
   padding: 2em 0;
+  background-color: var(--clr-primary-200);
 }
 
 .page-header__content {
@@ -108,7 +109,6 @@ section,
 }
 
 .logo {
-  display: block;
   max-width: 50%;
   height: auto;
 }
@@ -141,12 +141,11 @@ header,
   --logo-color: currentColor;
   padding: 2em 0;
   color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  background-color: var(--clr-primary-200);
   text-align: center;
 }
 
 .logo {
-  display: block;
   max-width: 40%;
   height: auto;
 }
