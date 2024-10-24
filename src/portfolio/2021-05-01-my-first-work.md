@@ -16,7 +16,7 @@ For my first poem site in the IDMX 268 Web Page Development II class, I decided 
 
 For the other poem site, I chose the pumpkin's pome to reflect the fall season and my personal approach to connecting design elements with content themes. The pumpkin article not only aligns with the autumn period but also adds warmth and vibrancy to the overall visual presentation.
 
-![the-pumkin-by-jgw](/assets/portfolio/127.0.0.1_5500_-8-.png)
+![the-pumkin-by-jgw](/assets/portfolio/work-1-2.jpg)
 
 Through these adjustments and design decisions, I've gained a deeper understanding of balancing creativity with functionality in web design. Every choice in layout, color, and structure adds to the user's experience, and each project teaches me something new.
 
