@@ -1,12 +1,10 @@
 ---
 title: Exploring Variable Fonts
-description: In this blog post, I share my experience working with the Fraunces
-  variable font. I explore the unique customization options it offers, such as
-  adjusting weight, optical size, softness, and wonkiness, all within the CSS
-  framework. Through self-hosting the font and deploying the project on Netlify,
-  I gained valuable insights into the power of variable fonts in web design.
-  This post is perfect for anyone interested in learning how variable fonts can
-  enhance both the functionality and aesthetics of typography on the web.
+description: In this blog post, I'll share my experience working with the
+  Fraunces variable font. I'll explore its unique customization options within
+  the CSS framework and discuss the insights gained from self-hosting the font
+  and deploying the project on Netlify. This post is perfect for anyone
+  interested in learning how variable fonts can enhance web typography.
 author: Fhaungfhs Suvannakajorn
 date: 2024-10-22T13:30:17.404Z
 tags:
