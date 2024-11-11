@@ -31,6 +31,14 @@ section,
   padding: min(10vh, 10em) 0;
 }
 
+img,
+picture {
+  max-width: 100%;
+  display: block;
+  justify-self: center;
+  align-self: center;
+}
+
 /* //////////////////////
   Utility Classes
   /////////////////////// */
