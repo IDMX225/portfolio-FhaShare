@@ -15,6 +15,6 @@ Inspired by Kevin Powell's CSS techniques and [this CodePen example](https://cod
 
 **How the Flip Effect Works:** The card flip relies on CSS properties like `perspective`, `transform-style`, and `rotateY` to create the 3D animation. With a hover effect, the card smoothly flips to reveal details about my contact information, skills, education, and experience.
 
-!(/assets/portfolio/Fourth-work.gif)
+![flipping-resume-card](/assets/portfolio/Fourth-work.gif)
 
 Building a 3D flip resume card is an exciting way to combine design and functionality. By applying tips from Kevin Powell's tutorials, I created an engaging, professional resumPowell'station. If you want to stand out with a unique portfolio or resume, consider building your 3D flip card!
