@@ -1,12 +1,16 @@
 ---
 title: Create a 3D Flipping Resume Card with HTML and CSS
-description: In this blog post, I'll share my interactive 3D flipping resume card that showcases my experience and skills. Inspired by Kevin Powell's CSS tutorials, this project uses advanced CSS techniques like perspective and transform to create an appealing flip effect for each resume section. View it live on Netlify to see the design in action.
+description: In this blog post, I'll share my interactive 3D flipping resume
+  card that showcases my experience and skills. Inspired by Kevin Powell's CSS
+  tutorials, this project uses advanced CSS techniques like perspective and
+  transform to create an appealing flip effect for each resume section. View it
+  live on Netlify to see the design in action.
 author: Fhaungfhs Suvannakajorn
 date: 2024-11-11T10:50:17.404Z
 tags:
   - post
   - featured
-image: /assets/portfolio/Fourth-work.jpeg
+image: /assets/portfolio/fourth-work-medium.jpeg
 imageAlt: ""
 ---
 Inspired by Kevin Powell's CSS techniques and [this CodePen example](https://codepen.io/kevinpowell/pres/NOddmx/a60d44c86df49ed1baa3a0a230158885), I created a 3D flipping resume card that brings my experience to life in an interactive way. You can check out the live version [here on Netlify](https://fhaungfha-resume.netlify.app/).
