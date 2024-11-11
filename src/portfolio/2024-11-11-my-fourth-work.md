@@ -9,7 +9,7 @@ tags:
 image: /assets/portfolio/Fourth-work.png
 imageAlt: ""
 ---
-Inspired by Kevin Powell's CSS techniques and [this CodePen example](https://codepen.io/kevinpowell/pres/a...), I created a 3D flipping resume card that brings my experience to life in an interactive way. You can check out the live version [here on Netlify](https://fhaungfha-resume.netlify.app/).
+Inspired by Kevin Powell's CSS techniques and [this CodePen example](https://codepen.io/kevinpowell/pres/NOddmx/a60d44c86df49ed1baa3a0a230158885), I created a 3D flipping resume card that brings my experience to life in an interactive way. You can check out the live version [here on Netlify](https://fhaungfha-resume.netlify.app/).
 
 **Why Use a 3D Flip Effect:** The 3D flip effect adds a unique, engaging touch to an online resume. It allows viewers to easily navigate different sections by flipping the card. This creative approach demonstrates both my skills and my commitment to innovative design.
 
