@@ -1,61 +1,30 @@
 ---
-title: Phra Aphai Mani — Sudsakorn's Pome
-description: This poem is from one of Sunthorn Phu (The William Shakespeare of
-  Thailand)’s most renowned works, the epic of Phra Aphai Mani. The particular
-  chapter from which this poem is drawn follows the story of Sudsakorn, who had
-  been fooled and his magical items were stolen. His mentor, a hermit, magically
-  appears and rescues him, then teaches him not to easily trust others.
+title: Pome Sites
+description: In this blog post, I will share my design journey through two poem
+  websites I developed for my IDMX 268 Web Page Development II class. One site
+  features a traditional Thai poem, and I focused on creating a subtle,
+  harmonious color palette to match the poem's mood. The other side celebrates
+  the fall season with a pumpkin-themed poem, connecting seasonal elements with
+  vibrant design choices. I will discuss how I balanced creativity and
+  functionality to create immersive user experiences in both projects.
 author: Fhaungfha Suvannakajorn
 date: 2024-10-13
 tags:
   - post
-image: /assets/portfolio/work1-picture-shutterstock-dreamloveyou.jpg
-imageAlt: Sunthorn Phu's Picture by dreamloveyou from Shutterstock
+  - featured
+image: /assets/portfolio/work-1.png
+imageAlt: Sunthorn Phu's pome site
 ---
-## Phra Aphai Mani — Sudsakorn
+For my first poem site in the IDMX 268 Web Page Development II class, I decided to feature a Thai poem and adjust the design colors to match its mood and tone. I aimed for a subtle yet harmonious palette that complements the traditional feel of the poem to create a visually immersive experience.
 
-### By Sunthorn Phu
+For the other poem site, I chose the pumpkin's pome to reflect the fall season and my personal approach to connecting design elements with content themes. The pumpkin article not only aligns with the autumn period but also adds warmth and vibrancy to the overall visual presentation.
 
-### Translated by Ken Mathis Lohatepanont
+![the-pumkin-by-jgw](/assets/portfolio/work-1-2.jpg)
 
-This poem is from one of Sunthorn Phu (The William Shakespeare of Thailand)’s most renowned works, the epic of Phra Aphai Mani. The particular chapter from which this poem is drawn follows the story of Sudsakorn, who had been fooled and his magical items were stolen. His mentor, a hermit, magically appears and rescues him, then teaches him not to easily trust others, comparing the human mind to entangled vines. The hermit concludes by saying that self-reliance and knowing how to survive is the best of all traits. This particular selection from Phra Aphai Mani is a beloved classic and one of the most well known poems in Thailand.
+Through these adjustments and design decisions, I've gained a deeper understanding of balancing creativity with functionality in web design. Every choice in layout, color, and structure adds to the user's experience, and each project teaches me something new.
 
-* ### **Thai-pronunciation**
+Feel free to explore my featured work using the link below.
 
-Laew sorn wa ya wai jai ma**nood**\
-Mun san **sood** luek lam nuer kam**nod**
+#### *[Sudsakorn by Sunthorn Phu](https://sunthornphu-poem.netlify.app/)*
 
-Tueng tao wan pan kiew tee liew **lod**\
-Gor mai **kod** muen nueng nai num jai **khon**
-
-Manood nee tee ruk yu song sa**tharn**\
-Bida **marn**da rak muk pen **pon**
-
-Tee pueng nueng peung dai tae kai **ton**\
-Kerd pen **khon** kid hen jueng jera**ja**
-
-Maen krai ruk ruk mung chung chung **torb**\
-Hai rorb **korb** kid arn na larn **na**
-
-Ru sing dai mai su ru vi**cha**\
-Ru rak**sa** tua rord pen yord dee
-
-* ### P﻿ome Meaning
-
-Do not trust others, he said:\
-be afraid of the human mind.
-
-Even the most twisted of vines\
-seems benign compared to the soul.
-
-Two people do have pure intent:\
-Your parents, who love with hearts whole.
-
-But destiny’s yours to control\
-It’s your role to think on your own.
-
-Beware of even the friendly\
-Cautiously think through all you’ve known.
-
-Knowledge is not enough, alone:\
-The capstone is learning to survive.
+#### *[The Pumpkin by John Greenleaf Whittier ](https://the-pumkin-by-jgw.netlify.app/)*
