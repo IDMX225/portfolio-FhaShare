@@ -21,17 +21,34 @@ Recently, I worked on a project following George Francis's tutorial on applying 
 Grayscale and Color Exploration
 I started with a grayscale version to ensure the layout and contrast were solid before adding color. After that, I experimented with HSL values to create a vibrant, fall-themed color scheme. I used a color playpen to fine-tune the palette.
 
-Check out my color scheme playpen: *[Color Scheme Playpen CodePen](https://codepen.io/FhaShare/pen/jOgygrG?editors=1100)*
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOgygrG" data-pen-title="color theme hsl" data-user="FhaShare" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/FhaShare/pen/jOgygrG">
+  color theme hsl</a> by Fhaungfha Suvannakajorn (<a href="https://codepen.io/FhaShare">@FhaShare</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 Final Product Card
 With the colors finalized, I applied them to the product card, ensuring it was visually appealing and accessible with proper contrast.
 
 ![](/assets/portfolio/work-2-3.png)
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xxvgvMK" data-pen-title="\[Grayscale] - Spooky Jack's Pumpkin" data-user="FhaShare" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/FhaShare/pen/xxvgvMK">
+  \[Grayscale] - Spooky Jack's Pumpkin</a> by Fhaungfha Suvannakajorn (<a href="https://codepen.io/FhaShare">@FhaShare</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 ![](/assets/portfolio/work-2-2.png)
 
 \
-See the final version here: *[Product Card CodePen](https://codepen.io/FhaShare/pen/wvVgLLW)*
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="wvVgLLW" data-pen-title="Spooky Jack's Pumpkin" data-user="FhaShare" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/FhaShare/pen/wvVgLLW">
+  Spooky Jack's Pumpkin</a> by Fhaungfha Suvannakajorn (<a href="https://codepen.io/FhaShare">@FhaShare</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 This project taught me how to effectively use HSL colors and custom properties in CSS while considering accessibility. It was a great way to dive deeper into color in UI design!
 
