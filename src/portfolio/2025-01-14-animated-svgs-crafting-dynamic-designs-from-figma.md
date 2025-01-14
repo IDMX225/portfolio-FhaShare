@@ -18,9 +18,11 @@ Attending the Figma for Education Monthly Workshop via Zoom last Friday was a si
 
 I also enhanced my understanding by learning from various online tutorials, including:
 
-* [How to design and create SVGs in Figma vectors](https://www.youtube.com/watch?v=H_l3Yof7Deg): This tutorial provides foundational knowledge about creating precise and scalable vector graphics in Figma. It covers essential tools and tips for organizing layers and exporting designs as SVGs.
-* [Awesome SVG animation using pure CSS](https://www.youtube.com/watch?v=mrsJbz-Wp8U): This resource demonstrated how to create smooth animations using only CSS, focusing on transitions, keyframes, and hover effects for interactive designs.
-* [Learn To Build An SVG Animation With CSS](<>) by developedbyed: This video guided me through creating engaging SVG animations with CSS, emphasizing techniques like stroke-dasharray, stroke-dashoffset, and animation timing for dynamic visual effects.
+[How to design and create SVGs in Figma vectors](https://www.youtube.com/watch?v=H_l3Yof7Deg): This tutorial provides foundational knowledge about creating precise and scalable vector graphics in Figma. It covers essential tools and tips for organizing layers and exporting designs as SVGs.
+
+[Awesome SVG animation using pure CSS](https://www.youtube.com/watch?v=mrsJbz-Wp8U): This resource demonstrated how to create smooth animations using only CSS, focusing on transitions, keyframes, and hover effects for interactive designs.
+
+[Learn To Build An SVG Animation With CSS](<>) by developedbyed: This video guided me through creating engaging SVG animations with CSS, emphasizing techniques like stroke-dasharray, stroke-dashoffset, and animation timing for dynamic visual effects.
 
 These resources provided valuable insights into designing and animating SVGs effectively, equipping me with practical techniques to apply to my project.
 
